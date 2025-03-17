@@ -1,0 +1,4 @@
+echo 'export PATH="/usr/bin:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+
+
